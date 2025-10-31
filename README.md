@@ -25,8 +25,7 @@ dos para manipular y analizar dicho texto.
 | `buscarPalabra(String palabra)`                                                                                     | Busca la palabra indicada y devuelve su posición.   | Si la palabra existe, devuelve el índice de inicio de la primera ocurrencia. Si no existe, devuelve -1. |
 | ` ponerEnMayusculas()`                                                                                              | Convierte toda la frase a mayúsculas.               | El método debe modificar el atributo frase y no solo devolver una versión en mayúsculas.                |
 | `ponerEnMinusculas()`                                                                                               | Convierte toda la frase a minúsculas.               | El método debe modificar el atributo frase y no solo devolver una versión en minúsculas.                |
-| `anyadirCaracter(char caracter, int posicion)`                                                                      | Añade un carácter en la posición especificada.      |
-| Debe validar que la posición sea válida (entre 0 y la longitud de la frase). Si no es válida, no modifica la frase. |
+| `anyadirCaracter(char caracter, int posicion)`                                                                      | Añade un carácter en la posición especificada.      | Debe validar que la posición sea válida (entre 0 y la longitud de la frase). Si no es válida, no modifica la frase. |
 | `obtenerFrase()`                                                                                                    | Devuelve la frase actual del procesador.            | Método `getter` esencial para mostrar el estado actual en el menú.                                      |
 
 ### 2. Clase MenuProcesador (Interfaz de Usuario)
@@ -80,13 +79,9 @@ Esta clase debe contener el método main para iniciar la aplicación.
 
 5. Probar el uso de los métodos del menú.
 
-## Autoría
-
-El ejercico aquí presente no me pertenece, solo su solución.
-
 ## Autor
 
-[![GaysperVT](https://github.com/Gaysper-Coder/.github/blob/main/Gayspear_Logo.png?raw=true)](https://www.twitch.tv/gayspervt).
+[![GaysperVT](https://github.com/Gaysper-Coder/.github/blob/main/Gayspear_Logo.png?raw=true)](https://www.twitch.tv/gayspervt)
 
 > [!NOTE]
 > La autoría de este ejercicio no me pertenece, solo su respuesta.
