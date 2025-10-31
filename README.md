@@ -80,8 +80,9 @@ Esta clase debe contener el método main para iniciar la aplicación.
 5. Probar el uso de los métodos del menú.
 
 ## Autor
+> [!NOTE]
+> La autoría de este ejercicio no me pertenece, solo su respuesta.
 
 [![GaysperVT](https://github.com/Gaysper-Coder/.github/blob/main/Gayspear_Logo.png?raw=true)](https://www.twitch.tv/gayspervt)
 
-> [!NOTE]
-> La autoría de este ejercicio no me pertenece, solo su respuesta.
+
